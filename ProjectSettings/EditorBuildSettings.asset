@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: b01852beb3a3ac44b98b983275db9ed9
+  - enabled: 0
+    path: Assets/Oculus/VR/Scenes/Cubes.unity
+    guid: d920b3d2525670f4abad3d20eda3b349
+  - enabled: 1
+    path: Assets/Scenes/DHRUBBUS.unity
+    guid: 053116bcbe6afef4a9061dede9ed33e3
+  m_configObjects: {}
