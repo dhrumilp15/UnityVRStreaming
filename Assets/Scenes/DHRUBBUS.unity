@@ -744,6 +744,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e962e92f68ee1424888036d26b632587, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  streamAddress: http://192.168.0.34:8080/cam.mjpg
+  streamAddress: http://212.170.100.189/mjpg/video.mjpg
   showFps: 1
   chunkSize: 4
